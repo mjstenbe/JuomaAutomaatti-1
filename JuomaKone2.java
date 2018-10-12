@@ -10,6 +10,7 @@ public class JuomaKone2 {
 		
 		
 		juomaAutomaatti omakone = new juomaAutomaatti();
+		// Menun tulostaminen kahteen kertaan on vähän turhaa. Esim. do-while-rakenteella riittäisi tulostus vain kerran
 		System.out.println("*******JuomaAutomaatti*******\n\n"
 				+ " 1.kahvi\n"
 				+ " 2.tee\n"
